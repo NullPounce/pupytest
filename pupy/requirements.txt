@@ -4,7 +4,7 @@ pyyaml
 rsa==4.7
 netaddr
 ecdsa==0.14
-paramiko==2.4.1
+paramiko==3.4.0
 https://github.com/alxchk/tinyec/archive/master.zip
 psutil
 netifaces
